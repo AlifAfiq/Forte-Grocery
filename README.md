@@ -6,7 +6,7 @@
 
 ![supplier analysis](Asset/Pictures/Screenshot 2025-04-12 022216.png)
 
-This project delivers a Power BI dashboard for Forte Grocery, analyzing sales, profit, stock levels, and supplier performance. It helps identify top-performing categories, low-stock items, and efficient suppliers. The insights support better inventory planning, cost control, and strategic decision-making across procurement, sales, and supply chain operations.
+This project delivers insights and solutions through Power BI dashboard for Forte Grocery, analyzing sales, profit, stock levels, and supplier performance. It helps identify top-performing categories, low-stock items, and efficient suppliers. The insights support better inventory planning, cost control, and strategic decision-making across procurement, sales, and supply chain operations.
 
 # 1. Introduction
 This document outlines the requirements for an inventory analysis system to improve decision-making in stock management, supplier performance, and sales tracking.
