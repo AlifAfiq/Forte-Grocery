@@ -1,5 +1,8 @@
 # Forte-Grocery
 
+![sales and profit](Asset/Pictures/Screenshot 2025-04-12 022128.png)
+![stock level and reorder alert](Asset/Pictures/Screenshot 2025-04-12 022200.png)
+![supplier analysis](Asset/Pictures/Screenshot 2025-04-12 022216.png)
 
 This project delivers a Power BI dashboard for Forte Grocery, analyzing sales, profit, stock levels, and supplier performance. It helps identify top-performing categories, low-stock items, and efficient suppliers. The insights support better inventory planning, cost control, and strategic decision-making across procurement, sales, and supply chain operations.
 
